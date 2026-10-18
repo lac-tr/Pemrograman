@@ -1,7 +1,9 @@
 # 01A. Input dan Output pada C++
 
-**Time Limit:** 1 s  
-**Memory Limit:** 256 MB
+| Ketentuan | Batas |
+|:--|:--|
+| **Time Limit** | 1 s |
+| **Memory Limit** | 256 MB |
 
 ## Deskripsi
 
