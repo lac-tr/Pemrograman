@@ -1,8 +1,7 @@
 # Archive Praktikum Pemrograman
-
 Repository ini berisi kumpulan latihan dan solusi soal dari setiap pertemuan praktikum.
 
-## Informasi Umum
+### Informasi Umum
 
 - **Mata Kuliah:** Pemrograman
 - **Bahasa Pemrograman:** C++, Java
